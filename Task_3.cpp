@@ -1,3 +1,6 @@
+#include <iostream>
+#include <cmath>
+
 void main()
 {
     double touble, start, end, step;
