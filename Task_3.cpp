@@ -3,6 +3,7 @@
 
 int main()
 {
+    system("chcp 65001 > nul");
     double touble, start, end, step;
     std::cout << "Введите начальное значение x: ";
     std::cin >> start; // Задаем исходное значение переменной
